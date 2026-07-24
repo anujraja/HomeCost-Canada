@@ -25,7 +25,7 @@ const ogDescription =
   "Know your take-home pay, the home you can afford, and your full monthly cost — built on 2026 Ontario tax rules.";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://air-finance-calculator.vercel.app"),
+  metadataBase: new URL("https://homecost-canada.vercel.app"),
   title: {
     default: ogTitle,
     template: "%s · HomeCost Canada",

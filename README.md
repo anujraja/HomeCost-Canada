@@ -6,7 +6,7 @@
 
 Ontario 2026 tax · home affordability · total home-cost planner
 
-[**Live demo →**](https://air-finance-calculator.vercel.app)
+[**Live demo →**](https://homecost-canada.vercel.app)
 
 [![CI](https://github.com/anujraja/HomeCost-Canada/actions/workflows/ci.yml/badge.svg)](https://github.com/anujraja/HomeCost-Canada/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -249,7 +249,7 @@ are committed).
 </details>
 
 **Vercel:** deployed at
-[air-finance-calculator.vercel.app](https://air-finance-calculator.vercel.app) —
+[homecost-canada.vercel.app](https://homecost-canada.vercel.app) —
 standard Next.js App Router, default build; `/api/calculate` and `/api/analyze`
 run as serverless functions.
 
@@ -273,5 +273,5 @@ unit-tested engine.
 ---
 
 <div align="center">
-<sub>Built by <a href="https://anujraja.com"><b>Anuj Raja</b></a> 🇨🇦 🇮🇳 · <a href="https://github.com/anujraja">GitHub</a> · <a href="https://air-finance-calculator.vercel.app">Live demo</a></sub>
+<sub>Built by <a href="https://anujraja.com"><b>Anuj Raja</b></a> 🇨🇦 🇮🇳 · <a href="https://github.com/anujraja">GitHub</a> · <a href="https://homecost-canada.vercel.app">Live demo</a></sub>
 </div>
